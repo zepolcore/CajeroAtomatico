@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+*Aca esta el ejecutable
+* */
 public class Interfaz {
     public static void main(String[] args) {
         System.out.println("introduzca su numero de identificacion");
